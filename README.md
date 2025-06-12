@@ -36,7 +36,7 @@ The goal of this project was to analyze a fictional pizza company's sales data a
 ## 📷 Dashboards Preview
 
 ### 🔹 Home Page
-![Home Page](Home%20Page.png)
+![Home Page](Home Page.png)
 
 ### 🔹 Best & Worst Pizzas Page
 ![Best Worst Page](Best_Worst%20page.png)
@@ -51,7 +51,7 @@ Used MySQL to:
 - Group data by hour, day, month for trend analysis  
 - Handle data types and missing values before sending to Power BI
 
-📄 [SQL Query Documentation](Query%20OF%20SQL%20for%20KPI%20and%20Chart%20Required.docx)
+📄 [SQL Query Documentation](Query OF SQL for KPI and Chart Required.docx)
 
 ---
 
